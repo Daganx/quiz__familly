@@ -1,0 +1,33 @@
+{
+  "easy": [
+    {
+      "question": "Quel est le nom du film sorti en 1994 avec Tom Hanks ?",
+      "answers": ["Forrest Gump", "Titanic", "Terminator", "Jurassic Park"],
+      "correct": "Forrest Gump"
+    }
+  ],
+  "medium": [
+    {
+      "question": "Qui a réalisé Pulp Fiction ?",
+      "answers": [
+        "Quentin Tarantino",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Christopher Nolan"
+      ],
+      "correct": "Quentin Tarantino"
+    }
+  ],
+  "hard": [
+    {
+      "question": "Quel acteur a incarné Tony Stark dans l’Univers Cinématographique Marvel ?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "correct": "Robert Downey Jr."
+    }
+  ]
+}
